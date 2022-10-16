@@ -6,8 +6,9 @@ This is an Edit i have done of qb-truckerjob to give players on my zombie server
 you could have this as a side job for your EMS on a normal server just change the job in the config to the name of your ems job
 
 ***Features*** 
-Change Job in the config
-Change fuel type in the config just to make life abit easier for people 
+
+1)Change Job in the config
+2)Change fuel type in the config just to make life abit easier for people 
 
 **Installation**
 
